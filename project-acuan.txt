@@ -1,4 +1,5 @@
 proejct Acuan
-- konsisten belajan dan memecahkan masalah pempgraman
+- konsisten belajan dan memecahkan masalah pemograman
 - membuat website 
 - menjalani proses membuat program
+- membuat algoritma
